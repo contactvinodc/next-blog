@@ -1,4 +1,6 @@
-import '../styles/globals.css'
+import '../styles/bootstrap.scss'
+import '../styles/blog.css'
+
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
